@@ -1,4 +1,5 @@
 ###linked-list
+
 the efficient is better than array(javascript);
 
 ### single-linked (单向链表)
