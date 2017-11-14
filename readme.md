@@ -1,4 +1,4 @@
-###linked-list
+### linked-list
 
 the efficient is better than array(javascript);
 
